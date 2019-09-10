@@ -10,7 +10,8 @@
         }
     ],
     "require": {
-        "php": ">=5.3.9"
+        "php": ">=5.3.9",
+        "php-amqplib/rabbitmq-bundle": "^1.14"
     },
     "autoload": {
         "psr-4": {
