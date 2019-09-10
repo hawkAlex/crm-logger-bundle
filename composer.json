@@ -1,0 +1,20 @@
+{
+    "name": "terravision/crm-logger-bundle",
+    "description": "Log to crm",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hawkAlex",
+            "email": "hawk.4el@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tvision\\CrmLoggerBundle\\": "src/"
+        }
+    }
+}
